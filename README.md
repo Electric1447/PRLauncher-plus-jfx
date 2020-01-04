@@ -7,7 +7,8 @@
 This a simple GUI launcher for PRBoom+ & GLBoom+ written it JavaFX 13;
  
  ### Known Issues:
- - Currently only supports glboom-plus.exe
+ - ?
  
  ### Changelog:
  - **0.2.0:** Initial Release.
+ - **0.3.0:** Added wad selector, exe selector, complevel selector, difficulity selector.
