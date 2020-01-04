@@ -7,6 +7,7 @@ import javafx.scene.control.Button;
 import javafx.scene.image.Image;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
@@ -23,8 +24,10 @@ public class ConfirmBox {
         window.setMinWidth(250);
 
         Text msgText = new Text(msg);
+        msgText.setFont(Font.font("verdana", 12));
 
         Button yesButton = new Button("Yes");
+        yesButton.setFont(Font.font("verdana", 12));
         yesButton.setMinSize(40, 30);
         yesButton.setOnAction(e -> {
             result = true;
@@ -32,6 +35,7 @@ public class ConfirmBox {
         });
 
         Button noButton = new Button("No");
+        noButton.setFont(Font.font("verdana", 12));
         noButton.setMinSize(40, 30);
         noButton.setOnAction(e -> {
             result = false;
