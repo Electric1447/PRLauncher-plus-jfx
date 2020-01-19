@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/ii2CiuF.png)
 
 ### About:
-This a simple GUI launcher for PRBoom+ & GLBoom+ written it JavaFX 13;
+This a simple GUI launcher for PRBoom+ & GLBoom+ written in JavaFX 13;
  
  ### Known Issues:
  - ?
