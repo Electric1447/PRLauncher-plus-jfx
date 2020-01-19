@@ -28,7 +28,7 @@ public class Main extends Application {
 
     Preferences pref = Preferences.userNodeForPackage(Main.class);
 
-    final String VERSION = "0.3.0";
+    final String VERSION = "0.3.0jfx";
 
     Stage window;
     Scene mainScene;

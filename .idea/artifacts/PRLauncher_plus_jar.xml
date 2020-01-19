@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PRLauncher-plus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PRLauncher_plus_jar</output-path>
+    <root id="archive" name="PRLauncher-plus.jar">
+      <element id="module-output" name="PRLauncher-plus" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/commons-lang3-3.9/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/commons-lang3-3.9/commons-lang3-3.9-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/commons-lang3-3.9/commons-lang3-3.9-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/commons-lang3-3.9/commons-lang3-3.9-test-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/javafx/javafx-sdk-13.0.1/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/javafx/javafx-sdk-13.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/java-libraries/javafx/javafx-sdk-13.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
