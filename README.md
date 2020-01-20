@@ -1,4 +1,4 @@
-# PRLauncher-plus
+# PRLauncher-plus (JavaFX)
 #### *A simple GUI launcher for PRBoom+ & GLBoom+*
 
 ![](https://i.imgur.com/ii2CiuF.png)
